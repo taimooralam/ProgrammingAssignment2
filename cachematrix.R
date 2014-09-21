@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file is for solving my assignment 2 and providing the two functions provided for R
 
 ## This function makes a matrix of the data and returns a list of the available functions to teh object matrix
 
